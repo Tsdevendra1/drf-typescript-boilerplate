@@ -1,5 +1,6 @@
 # DRF Typescript boilerplate
 Steps to setup:
-  1. Run 'npm install' in terminal in project directory
-  1. Run 'npm run build' in terminal in project directory
-  2. Launch server
+  1. Run 'pip instal -r requirements.txt' in the project directory
+  2. Run 'npm install' in terminal in project directory
+  3. Run 'npm run build' in terminal in project directory
+  4. Launch server
